@@ -8,7 +8,7 @@ Here you will find a compilation of some of my favourite personal and profession
 <h3>Most Popular Neighbourhoods</h3>
 
 <p>
-For this project I determined and visualized the most popular neighbourhoods in a chosen destination using Airbnb data. Then, I ran a demo on Paris, France and published my findings in a blog post.
+For this project I determined and visualized the most popular neighbourhoods in a chosen destination using Airbnb data. Then, I ran a demo on Paris, France and published my findings in a blog post. <br/>
 <a href="https://github.com/tiwaab/airbnb-neighbourhoods"> Code </a> | <a href="https://medium.com/the-great-imposter/how-i-ruined-my-vacation-by-not-using-python-data-77a92f2da8de"> Write-up </a> | <a href="https://tiwaab.github.io/airbnb-neighbourhoods/"> Demo </a> <br/>
 <i> Tools used: Python, Pandas, JS, LeafletJS </i>
 </p>
