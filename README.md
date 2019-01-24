@@ -1,4 +1,5 @@
-# Data Science Portfolio of Tiwaa Bruks
+<h1 align="center">Data Science Portfolio of Tiwaa Bruks</h1>
+
 Hi, I'm Tiwaa and welcome to my portfolio!\
 \
 **Website**: Coming Soon
