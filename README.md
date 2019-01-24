@@ -1,5 +1,12 @@
-# Data Analysis Portfolio
+# Portfolio
 Hi, I'm Tiwaa and welcome to my portfolio!\
 \
+**Website**: Coming Soon
+
+**Blog**: https://medium.com/the-great-imposter
+
+**LinkedIn**: https://www.linkedin.com/in/tiwaabruks/
+
 Here you will find a compilation of some of my favourite personal and professional projects. 
-So I hope you enjoy it and please feel free to [get in touch](mailto:ctbruks@gmail.com "ctbruks@gmail.com") and let me know what you think.
+
+Have some feedback or know about some interesting work opportunities? [Get in touch](mailto:ctbruks@gmail.com "ctbruks@gmail.com") 
