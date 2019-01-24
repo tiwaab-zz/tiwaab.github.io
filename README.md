@@ -9,6 +9,7 @@ Here you will find a compilation of some of my favourite personal and profession
 [Code](https://github.com/tiwaab/airbnb-neighbourhoods) | [Write-up](https://medium.com/the-great-imposter/how-i-ruined-my-vacation-by-not-using-python-data-77a92f2da8de) | [Demo](https://tiwaab.github.io/airbnb-neighbourhoods/)</br>
 *Tools used: Python, Pandas, JS, LeafletJS*
 
+</br>
 
 **Website**: Coming Soon
 
