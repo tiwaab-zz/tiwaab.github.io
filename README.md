@@ -11,7 +11,6 @@ For this project I determined and visualized the most popular neighbourhoods in 
 <a href="https://medium.com/the-great-imposter/how-i-ruined-my-vacation-by-not-using-python-data-77a92f2da8de"> Write-up </a> | <a href="https://tiwaab.github.io/airbnb-neighbourhoods/"> Demo </a> <br/>
 <i> Tools: Python, Pandas, JS, LeafletJS </i>
 </p>
-<br/>
 
 <h3><a href="https://github.com/tiwaab/drug-trial-results/blob/master/drug_trial_results.ipynb">Drug Trial Results</a></h3>
 <p>
