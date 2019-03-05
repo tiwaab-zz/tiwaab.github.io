@@ -20,6 +20,8 @@ The purpose of this project was to analyze a hypothetical drug trial. Two data f
 <br/>
 
 
+<a href="https://tiwaab.github.io/Tiwaa%20Bruks%20DS%20Resume.pdf"><b>Resume</b></a>
+
 **Website**: Coming Soon
 
 **Blog**: https://medium.com/the-great-imposter
